@@ -10,5 +10,10 @@
 </div>
 <br>
 <br>
+<div align = "left">
+        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahya-ehs&layout=compact&theme=transparent&hide_border=true)](https://github.com/mahya-ehs/github-readme-stats)
 
+<!-- [![Mahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahya-ehs&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/mahya-ehs) -->
+
+</div>
