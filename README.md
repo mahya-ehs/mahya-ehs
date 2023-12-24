@@ -1,6 +1,6 @@
 <h1> Hey, I’m Mahya </h1>
 
-<img src="GNbDDkX4b9.gif" width="32%" alt="vector" align="right"> 
+<img src="giph.gif" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Computer+Engineering+Student+👩‍🔬;AI+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
 
