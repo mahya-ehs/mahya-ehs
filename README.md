@@ -1,8 +1,8 @@
 <h1> Hey, I’m Mahya </h1>
 
-<img src="giph.gif" width="32%" alt="vector" align="right"> 
+<img src="giph.gif" width="35%" alt="vector" align="right"> 
 
-/*[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Computer+Engineering+Student+👩‍🔬;AI+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)*/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Computer+Engineering+Student+👩‍🔬;AI+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
 
 <div align = "left">
   🤖 Currently practising Machine Learning and its applications<br>
