@@ -10,6 +10,5 @@
 </div>
 <br>
 <br>
-<div align = "left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahya-ehs&layout=compact&theme=transparent&hide_border=true)](https://github.com/mahya-ehs/github-readme-stats)
-</div>
+
